@@ -1,9 +1,11 @@
 {
-  "id": "tracker-pie-customizer",
-  "name": "Tracker Pie Customizer",
+  "id": "tracker-pie-enchancer",
+  "name": "Tracker Pie Enchancer",
   "version": "1.0.0",
   "minAppVersion": "1.5.0",
-  "description": "Customizes Tracker pie labels and redistributes external labels.",
-  "author": "Local customization",
+  "description": "Improves the readability of Tracker pie chart labels and provides simple legend and visibility controls."
+  "author": "vaul",
+  "authorUrl": "https://github.com/vaul17rep"
+  "fundingUrl": "https://github.com/vaul17rep/tracker-pie-enchancer"
   "isDesktopOnly": false
 }
