@@ -1,4 +1,4 @@
-# Tracker Pie Customizer
+# Tracker Pie Enchancer
 
 An Obsidian plugin that improves the readability of pie charts created by the Tracker plugin.
 
