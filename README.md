@@ -50,12 +50,12 @@ This plugin requires the [Tracker](https://github.com/pyrochlore/obsidian-tracke
 The plugin is currently available for manual installation.
 
 1. Download `main.js` and `manifest.json` from the latest release.
-2. Create a folder named `tracker-pie-customizer` inside your Obsidian vault:
+2. Create a folder named `tracker-pie-enchancer` inside your Obsidian vault:
 
-   `.obsidian/plugins/tracker-pie-customizer/`
+   `.obsidian/plugins/tracker-pie-enchancer/`
 
 3. Put the downloaded files into that folder.
-4. Enable **Tracker Pie Customizer** in Obsidian under **Settings → Community plugins**.
+4. Enable **Tracker Pie Enchancer** in Obsidian under **Settings → Community plugins**.
 
 ## License
 
