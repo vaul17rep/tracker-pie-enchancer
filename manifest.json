@@ -1,0 +1,9 @@
+{
+  "id": "tracker-pie-customizer",
+  "name": "Tracker Pie Customizer",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Customizes Tracker pie labels and redistributes external labels.",
+  "author": "Local customization",
+  "isDesktopOnly": false
+}
